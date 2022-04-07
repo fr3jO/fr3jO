@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fr3jO
 - 👀 I’m interested in IoT development and anything that can be helpful for me
-- 🌱 I’m currently learning php, JavaScript
+- 🌱 I’m currently learning PHP, JavaScript
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me by messaging me
 
